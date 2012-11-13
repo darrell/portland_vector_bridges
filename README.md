@@ -2,6 +2,15 @@ Bridges of Portland Vector Renderings
 =====================================
 
 This repository contains vector renderings of the bridges of Portland, Oregon.
+I haven't completed all of the bridges yet, only these:
+
+ * Burnside Bridge
+ * Hawthorne Bridge
+ * Marquam Bridge
+ * Morrisson Bridge
+ * Portland-Milwaukie Light Rail Bridge
+ * Ross Island Bridge
+ * Steel Bridge
 
 Most are closely based on the renderings contained in the Library of
 Congress's Historic American Engineering Record collection, though they are
