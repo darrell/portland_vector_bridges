@@ -8,7 +8,7 @@ I haven't completed all of the bridges yet, only these:
  * Hawthorne Bridge
  * Marquam Bridge
  * Morrisson Bridge
- * Portland-Milwaukie Light Rail Bridge
+ * Tilikum Crossing
  * Ross Island Bridge
  * Steel Bridge
 
@@ -18,8 +18,8 @@ not an exact tracing of such.
 
 You can find the originals [at the LOC](http://www.loc.gov/pictures/item/or0316/)
 
-The Portland-Milwaukie Light Rail Bridge image is drawn from the engineering
-diagrams available on [Trimet's Bridge pages](http://trimet.org/pm/library/bridge.htm).
+The Tilikum Crossing image is drawn from the engineering diagrams available 
+on [Trimet's Bridge pages](http://trimet.org/pm/library/bridge.htm).
 
 The original .ai file is included, as are SVG renderings of each bridge. I've
 done my best to keep them at the same relative scale, as they are in the
